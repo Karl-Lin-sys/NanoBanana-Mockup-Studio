@@ -1,0 +1,6 @@
+{
+  "name": "NanoBanana Mockup Studio",
+  "description": "Visualize your product on coffee mugs, billboards, t-shirts, and marketing mediums with consistent branding powered by nano banana generative AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
